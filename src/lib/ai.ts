@@ -66,7 +66,7 @@ export async function generateResponse(prompt: string): Promise<string> {
           },
           {
             role: "model",
-            parts: "Anlaşıldı. HYFORENSIC adli bilişim asistanı olarak hizmet vereceğim.",
+            parts: "Anlaşıldı. Adli bilişim asistanı olarak hizmet vereceğim.",
           },
         ],
       });
